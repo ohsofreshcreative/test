@@ -1,0 +1,16 @@
+{
+    "name": "acf/partners",
+    "title": "Blok - Partnerzy (logo)",
+    "description": "",
+    "category": "projekt",
+    "icon": "grid-view",
+    "keywords": ["txt-img", "header"],
+    "supports": {
+        "anchor": true
+    },
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "partners.php"
+    },
+    "align": "full"
+}

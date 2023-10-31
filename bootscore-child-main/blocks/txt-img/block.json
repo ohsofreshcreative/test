@@ -1,0 +1,16 @@
+{
+    "name": "acf/txt-img",
+    "title": "Blok - Treść/Zdjęcie",
+    "description": "",
+    "category": "projekt",
+    "icon": "align-pull-right",
+    "keywords": ["txt-img", "header"],
+	"supports": {
+        "anchor": "true",
+        "align": "true"
+    },
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "txt-img.php"
+    }
+}

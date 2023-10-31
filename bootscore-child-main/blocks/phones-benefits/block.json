@@ -1,0 +1,16 @@
+{
+    "name": "acf/phones-benefits",
+    "title": "Blok - Telefony i Zalety",
+    "description": "",
+    "category": "projekt",
+    "icon": "align-pull-left",
+    "keywords": ["txt-img", "header"],
+    "supports": {
+        "anchor": true
+    },
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "phones-benefits.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "acf/title",
+    "title": "Page title",
+    "description": "",
+    "category": "projekt",
+    "icon": "heading",
+    "keywords": ["title", "header"],
+	"supports": {
+        "anchor": "true",
+        "align": "true"
+    },
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "title.php"
+    }
+}

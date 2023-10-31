@@ -1,0 +1,17 @@
+{
+    "name": "acf/baner-opis",
+    "title": "Blok - baner z Opisem",
+    "description": "",
+    "category": "projekt",
+    "icon": "welcome-view-site",
+    "keywords": ["image", "header"],
+    "supports": {
+        "anchor": "true",
+        "align": "true"
+   },
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "baner-opis.php"
+    },
+    "align": "full"
+}
